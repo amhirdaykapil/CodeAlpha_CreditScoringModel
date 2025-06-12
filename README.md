@@ -71,6 +71,6 @@ The script will:
 
 ## ✍️ Author
 
-👤 Hirday Kapil
-🎓 CodeAlpha Machine Learning Intern
-📅 June 2025
+👤 Hirday Kapil<br>
+🎓 CodeAlpha Machine Learning Intern<br>
+📅 June 2025<br>
