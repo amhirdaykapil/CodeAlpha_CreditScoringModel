@@ -1,6 +1,6 @@
 # 💳 Credit Scoring Prediction Model — CodeAlpha Internship
 
-This project predicts whether a person is likely to default on a loan using real-world financial data from the "Give Me Some Credit" dataset.
+This project predicts whether a person is likely to default on a loan using real-world financial dataset.
 
 ---
 
@@ -10,7 +10,7 @@ This project predicts whether a person is likely to default on a loan using real
 - Predicts loan default (0 = safe, 1 = risky)
 - Random user prediction from dataset
 - MySQL-style terminal output formatting
-- Evaluation metrics: Accuracy, Recall, ROC-AUC
+- Evaluation metrics : Accuracy, Recall, ROC-AUC
 - Feature Importance Graph
 
 ---
