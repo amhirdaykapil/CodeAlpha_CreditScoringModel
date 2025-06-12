@@ -45,9 +45,13 @@ Install the required Python libraries using: _pip install -r requirements.txt_
 
 ## 🖼️ Screenshot (Sample Output)
 
-Below is a sample prediction output for a random user:
+Below is a terminal output screenshot of a **random user** from the dataset who was predicted to be **safe** by the model, i.e., not likely to default.
 
 ![Prediction Output Screenshot](screenshot.png)
+
+Below is a terminal output screenshot of a **random user** from the dataset who was predicted as a **high-risk defaulter** by the model.
+
+![Prediction Output Screenshot](screenshot2.png)
 
 ---
 
