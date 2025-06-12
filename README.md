@@ -59,7 +59,7 @@ The Random Forest model analyzes the user's financial profile and determined tha
 
 ## ▶️ How to Run
 
-Run the main Python file using: _python credit_scoring_individual_predict.py_
+Run the main Python file using: _python credit_scoring_model.py_
 
 The script will:
 - Train a model using Random Forest
