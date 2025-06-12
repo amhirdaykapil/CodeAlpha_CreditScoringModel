@@ -53,6 +53,8 @@ Below is a terminal output screenshot of a **random user** from the dataset who 
 
 ![Prediction Output Screenshot](screenshot2.png)
 
+The Random Forest model analyzes the user's financial profile and determined that whether the individual is **HIGH RISK DEFAULTER** or **SAFE**.
+
 ---
 
 ## ▶️ How to Run
