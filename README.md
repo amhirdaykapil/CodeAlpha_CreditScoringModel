@@ -63,10 +63,3 @@ The script will:
 - Randomly select one user from dataset
 - Predict their loan default probability
 
----
-
-## ✍️ Author
-
-👤 Hirday Kapil
-🎓 CodeAlpha Machine Learning Intern
-📅 June 2025
