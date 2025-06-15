@@ -1,6 +1,6 @@
-# 💳 Credit Scoring Prediction Model — CodeAlpha Internship
+# 💳 Credit Scoring Prediction Model
 
-This project predicts whether a person is likely to default on a loan using real-world financial data from the "Give Me Some Credit" dataset.
+This project predicts whether a person is likely to default on a loan using real-world financial data
 
 ---
 
@@ -11,13 +11,12 @@ This project predicts whether a person is likely to default on a loan using real
 - Random user prediction from dataset
 - MySQL-style terminal output formatting
 - Evaluation metrics: Accuracy, Recall, ROC-AUC
-- Feature Importance Graph
 
 ---
 
 ## 📂 Project Structure
 
-CodeAlpha_CreditScoringModel/<br>
+CreditScoringModel/<br>
 ├── cs-training.csv<br>
 ├── credit_scoring_individual_predict.py<br>
 ├── requirements.txt<br>
@@ -45,9 +44,12 @@ Install the required Python libraries using: _pip install -r requirements.txt_
 
 ## 🖼️ Screenshot (Sample Output)
 
-Below is a sample prediction output for a random user:
-
+### 🧾 Sample Prediction Output (with Risk Score)
 ![Prediction Output Screenshot](screenshot.png)
+
+
+### ✅ Sample Prediction Output (Safe User)
+![Prediction Output Screenshot](screenshot2.png)
 
 ---
 
